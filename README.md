@@ -12,10 +12,10 @@ GCN and GAT Architectures: Implementation of deep GCN and GAT layers with dropou
 Training and Validation: Models are trained and validated with accuracy metrics to measure performance.
 Class Imbalance Analysis: Exploration of label distribution to identify and address challenges.
 
-Test Predictions: Saves test results for evaluation or submission.
 
 Results
 
 Validation Accuracy: The GCN model achieved a validation accuracy of 81.82%.
 Training Accuracy: The model achieved a perfect 100% accuracy on the training set.
 Class Distribution: Predicted labels showed an imbalance, with the largest proportion in Class 2 (28.95%).
+Test Predictions: Saves test results for evaluation or submission.
